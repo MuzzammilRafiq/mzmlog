@@ -15,6 +15,9 @@ const SideBar: React.FC = () => {
         />
         {session?.user?.name}
       </div>
+      <div className="bg-pink-700 p-3 mb-5 rounded-lg hover:bg-pink-600 cursor-pointer text-center">
+        Add Post
+      </div>
       <SidebarComponents />
       <SidebarComponents />
       <SidebarComponents />

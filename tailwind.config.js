@@ -17,6 +17,18 @@ module.exports = {
     //   darkblue1: "#02022D",
     //   darkblue2: "#04043a",
     // },
+    width: {
+      ten: "10%",
+      twenty: "20%",
+      thirty: "30%",
+      fourty: "40%",
+      fifty: "50%",
+      sixty: "60%",
+      seventy: "70%",
+      eighty: "80%",
+      ninety: "90%",
+      hundred: "100%",
+    },
   },
   plugins: [],
 };
